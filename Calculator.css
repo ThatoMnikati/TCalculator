@@ -18,5 +18,18 @@ body{
 	margin: 1.5;
 }
 .btnOperator{
-    
+    width: 55;
+    height: 55;
+    padding-top: -1;
+    border: none ;
+    font-size: 20;
+    font-family: sans-serif;
+    font-weight: 100;
+    border-radius: 30px;
+    margin: 1.5;
+    transition: 0.25px;
+    cursor: pointer;
+}
+.btnOperator;:hover{
+background: blue;
 }
