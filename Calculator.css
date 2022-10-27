@@ -52,6 +52,6 @@ body{
     transition: 0.25px;
     cursor: pointer;
 }
-.btnOperator;:hover{
+.btnOperator:hover{
 background: blue;
 }
