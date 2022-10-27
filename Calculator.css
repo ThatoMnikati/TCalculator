@@ -12,6 +12,7 @@ body{
     left: 70%;
     transform: translate(-50%,50%);
     transition: 0.25px;
+    background-color: black;
     text-align: center;
 }
 #display{
