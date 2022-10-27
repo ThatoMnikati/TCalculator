@@ -13,11 +13,10 @@ body{
     left: 70%;
     transform: translate(-50%,50%);
     transition: 0.25px;
-    background-color: black;
     text-align: center;
 }
 #display{
-    border: none;
+	border: none;
 	border-radius: 30px;
 	width: 245;
 	font-size: 20;
@@ -29,16 +28,16 @@ body{
 	color: black;
 }
 .btnNum{
-    width: 55;
-    height: 55;
-    padding-top: -1;
-    background: white;
-    border: none ;
-    font-size: 20;
-    font-family: sans-serif;
-    font-weight: 100;
-    border-radius: 30px;
-    margin: 1.5;
+width: 55;
+height: 55;
+padding-top: -1;
+background: white;
+border: none ;
+font-size: 20;
+font-family: sans-serif;
+font-weight: 100;
+border-radius: 30px;
+margin: 1.5;
 }
 .btnOperator{
     width: 55;
@@ -55,9 +54,9 @@ body{
     cursor: pointer;
 }
 .btnOperator:hover{
-background: blue;
+    background: blue;
 }
-#btnZero{
+#zero{
     width: 120;
     height: 55;
     padding-top: -1;
