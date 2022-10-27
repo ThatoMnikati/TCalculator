@@ -56,7 +56,7 @@ margin: 1.5;
 .btnOperator:hover{
 background: blue;
 }
-.btnZero{
+#btnZero{
     width: 120;
     height: 55;
     padding-top: -1;
